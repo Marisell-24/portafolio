@@ -11,13 +11,13 @@ headeR{
 
 .lista-navegacion{
     display: flex;
-    gap: 30px;
-    align-items:content;
+    gap: 20px;
+    align-items:center;
 
 }
 
 .linkedin-icon{
-    color: var(--azul-linkedin);
+    color: var(--gris);
     height: 40px;
 
     
@@ -82,3 +82,5 @@ main{
     padding: 5px 15px;
     border-radius: 25px;
 }
+
+
